@@ -1,0 +1,23 @@
+{
+  "BPIX|": "Pixel",
+  "FPIX|": "Pixel",
+  "TEC|": "Strip",
+  "TIBTOB|": "Strip",
+  "EB|": "ECAL",
+  "EE|": "ECAL",
+  "ES|": "ECAL",
+  "HBHE|": "HCAL",
+  "HF|": "HCAL",
+  "HO|": "HCAL",
+  "GEM|": "Muon",
+  "DT|": "Muon",
+  "RPC|": "Muon",
+  "CSC|": "Muon",
+  "CPM-PRI|": "other",
+  "TOTDET|": "other",
+  "TWINMUX|": "other",
+  "CTPPS|": "other",
+  "eventsetup|eventsetup": "event setup",
+  "idle|idle": "idle",
+  "other|other": "other|other"
+}

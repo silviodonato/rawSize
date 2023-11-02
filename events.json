@@ -1,0 +1,286 @@
+{
+    "resources": [
+        {
+            "size_compr": "event size"
+        },
+        {
+            "size_uncompr": "uncompressed event size"
+        }
+    ],
+    "modules": [
+        {
+            "events": 100,
+            "label": "BPIX+",
+            "size_compr": 9392.28,
+            "size_uncompr": 11991.3,
+            "type": "BPIX"
+        },
+        {
+            "events": 100,
+            "label": "BPIX-",
+            "size_compr": 9106.17,
+            "size_uncompr": 11746.5,
+            "type": "BPIX"
+        },
+        {
+            "events": 100,
+            "label": "CALOL1",
+            "size_compr": 303.614,
+            "size_uncompr": 3622.73,
+            "type": "L1T"
+        },
+        {
+            "events": 100,
+            "label": "CALOL2",
+            "size_compr": 150.929,
+            "size_uncompr": 1988.55,
+            "type": "L1T"
+        },
+        {
+            "events": 100,
+            "label": "CPM-PRI",
+            "size_compr": 81.366,
+            "size_uncompr": 1862.36,
+            "type": "CPM-PRI"
+        },
+        {
+            "events": 100,
+            "label": "CSC+",
+            "size_compr": 1051.68,
+            "size_uncompr": 4201.36,
+            "type": "CSC"
+        },
+        {
+            "events": 100,
+            "label": "CSC-",
+            "size_compr": 1058.95,
+            "size_uncompr": 4188.06,
+            "type": "CSC"
+        },
+        {
+            "events": 100,
+            "label": "CTPPS",
+            "size_compr": 105.976,
+            "size_uncompr": 1822.08,
+            "type": "CTPPS"
+        },
+        {
+            "events": 100,
+            "label": "DT+",
+            "size_compr": 146.488,
+            "size_uncompr": 1877.79,
+            "type": "DT"
+        },
+        {
+            "events": 100,
+            "label": "DT-",
+            "size_compr": 151.931,
+            "size_uncompr": 1884.01,
+            "type": "DT"
+        },
+        {
+            "events": 100,
+            "label": "DT0",
+            "size_compr": 87.85,
+            "size_uncompr": 1806.2,
+            "type": "DT"
+        },
+        {
+            "events": 100,
+            "label": "DTUP",
+            "size_compr": 74.582,
+            "size_uncompr": 1793.63,
+            "type": "DT"
+        },
+        {
+            "events": 100,
+            "label": "EB+",
+            "size_compr": 1197.62,
+            "size_uncompr": 4678.02,
+            "type": "EB"
+        },
+        {
+            "events": 100,
+            "label": "EB-",
+            "size_compr": 1150.81,
+            "size_uncompr": 4557.9,
+            "type": "EB"
+        },
+        {
+            "events": 100,
+            "label": "EE+",
+            "size_compr": 604.41,
+            "size_uncompr": 3097.42,
+            "type": "EE"
+        },
+        {
+            "events": 100,
+            "label": "EE-",
+            "size_compr": 546.728,
+            "size_uncompr": 2971.86,
+            "type": "EE"
+        },
+        {
+            "events": 100,
+            "label": "ES+",
+            "size_compr": 1248.04,
+            "size_uncompr": 4163.96,
+            "type": "ES"
+        },
+        {
+            "events": 100,
+            "label": "ES-",
+            "size_compr": 1177.82,
+            "size_uncompr": 4022.72,
+            "type": "ES"
+        },
+        {
+            "events": 100,
+            "label": "FPIX+",
+            "size_compr": 4691.43,
+            "size_uncompr": 6643.28,
+            "type": "FPIX"
+        },
+        {
+            "events": 100,
+            "label": "FPIX-",
+            "size_compr": 5007.03,
+            "size_uncompr": 6971.22,
+            "type": "FPIX"
+        },
+        {
+            "events": 100,
+            "label": "GEM+",
+            "size_compr": 113.69,
+            "size_uncompr": 1966.17,
+            "type": "GEM"
+        },
+        {
+            "events": 100,
+            "label": "GEM-",
+            "size_compr": 114.795,
+            "size_uncompr": 1977.67,
+            "type": "GEM"
+        },
+        {
+            "events": 100,
+            "label": "GEMPILOT",
+            "size_compr": 64.49,
+            "size_uncompr": 1782.4,
+            "type": "GEM"
+        },
+        {
+            "events": 100,
+            "label": "HBHEA",
+            "size_compr": 2312.61,
+            "size_uncompr": 5816.67,
+            "type": "HBHE"
+        },
+        {
+            "events": 100,
+            "label": "HBHEB",
+            "size_compr": 2326.62,
+            "size_uncompr": 5832.12,
+            "type": "HBHE"
+        },
+        {
+            "events": 100,
+            "label": "HBHEC",
+            "size_compr": 2293.31,
+            "size_uncompr": 5792.77,
+            "type": "HBHE"
+        },
+        {
+            "events": 100,
+            "label": "HF",
+            "size_compr": 2488.24,
+            "size_uncompr": 7193.94,
+            "type": "HF"
+        },
+        {
+            "events": 100,
+            "label": "HO",
+            "size_compr": 734.296,
+            "size_uncompr": 2962.1,
+            "type": "HO"
+        },
+        {
+            "events": 100,
+            "label": "MUTF",
+            "size_compr": 309.643,
+            "size_uncompr": 3673.31,
+            "type": "L1T"
+        },
+        {
+            "events": 100,
+            "label": "RPC",
+            "size_compr": 75.84,
+            "size_uncompr": 1790.14,
+            "type": "RPC"
+        },
+        {
+            "events": 100,
+            "label": "TEC+",
+            "size_compr": 17956.4,
+            "size_uncompr": 24409.4,
+            "type": "TEC"
+        },
+        {
+            "events": 100,
+            "label": "TEC-",
+            "size_compr": 15012.3,
+            "size_uncompr": 19857.0,
+            "type": "TEC"
+        },
+        {
+            "events": 100,
+            "label": "TIBTID",
+            "size_compr": 21751.5,
+            "size_uncompr": 29011.5,
+            "type": "TIBTOB"
+        },
+        {
+            "events": 100,
+            "label": "TOB",
+            "size_compr": 19799.2,
+            "size_uncompr": 27934.0,
+            "type": "TIBTOB"
+        },
+        {
+            "events": 100,
+            "label": "TOTDET",
+            "size_compr": 77.336,
+            "size_uncompr": 2035.85,
+            "type": "TOTDET"
+        },
+        {
+            "events": 100,
+            "label": "TWINMUX",
+            "size_compr": 161.241,
+            "size_uncompr": 3656.46,
+            "type": "TWINMUX"
+        },
+        {
+            "events": 100,
+            "label": "UGT",
+            "size_compr": 161.947,
+            "size_uncompr": 2637.03,
+            "type": "L1T"
+        },
+        {
+            "events": 100,
+            "label": "UGTSPARE",
+            "size_compr": 53.838,
+            "size_uncompr": 1767.28,
+            "type": "L1T"
+        }
+    ],
+    "total": {
+        "events": 100,
+        "label": "EventSize",
+        "size_compr": 121370.0,
+        "size_uncompr": 170612.0,
+        "type": "Job"
+    }
+}
+
